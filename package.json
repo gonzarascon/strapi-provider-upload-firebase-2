@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "firebase-admin": "^8.12.1"
+  },
+  "name": "strapi-provider-upload-firebase-2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:gonzarascon/strapi-provider-upload-firebase-2.git",
+  "author": "gonzarascon <gonzarascon@gmail.com>",
+  "license": "MIT"
+}
